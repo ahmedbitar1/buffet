@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\ahmed.essamm\Desktop\buffet</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Halls_Buffet.dll">
+      <publishTime>09/24/2025 15:42:11</publishTime>
+    </File>
+    <File Include="bin/Halls_Buffet.xml">
+      <publishTime>09/24/2025 15:42:11</publishTime>
+    </File>
+    <File Include="BuffetOrder.aspx">
+      <publishTime>09/24/2025 15:20:21</publishTime>
+    </File>
+    <File Include="images/buffet2/580b57fcd9996e24bc43c120.png">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/ananas.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/ananas1.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/bon.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/bon2.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/ganz.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/gawafa.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/gawafa1.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/green.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/kar1.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/kar2.jpg">
+      <publishTime>09/15/2025 15:26:23</publishTime>
+    </File>
+    <File Include="images/buffet2/karka2.jpeg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/kerfa.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/khokh.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/koktail.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/lamonw.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/lemon.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/lemon2.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/mango.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/mango2.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/n3na3.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/n3na32.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/nesk.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/orang.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/orang1.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/redtea.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/sobia.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/tamr.jpg">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/Thumbs.db">
+      <publishTime>09/15/2025 15:26:24</publishTime>
+    </File>
+    <File Include="images/buffet2/tofah.jpg">
+      <publishTime>09/15/2025 15:26:25</publishTime>
+    </File>
+    <File Include="images/buffet2/tofah1.jpg">
+      <publishTime>09/15/2025 15:26:25</publishTime>
+    </File>
+    <File Include="images/buffet2/xxx3.jpg">
+      <publishTime>09/15/2025 15:26:25</publishTime>
+    </File>
+    <File Include="images/buffet2/yanson.jpg">
+      <publishTime>09/15/2025 15:26:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/18/2025 12:52:51</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

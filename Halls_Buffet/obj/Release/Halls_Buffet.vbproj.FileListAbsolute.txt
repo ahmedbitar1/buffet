@@ -1,0 +1,9 @@
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\bin\Halls_Buffet.dll.config
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\bin\Halls_Buffet.dll
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\bin\Halls_Buffet.pdb
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\bin\Halls_Buffet.xml
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\obj\Release\Halls_Buffet.Resources.resources
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\obj\Release\Halls_Buffet.vbproj.GenerateResource.Cache
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\obj\Release\Halls_Buffet.dll
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\obj\Release\Halls_Buffet.xml
+c:\users\ahmed.essamm\documents\visual studio 2013\Projects\Halls_Buffet\Halls_Buffet\obj\Release\Halls_Buffet.pdb
